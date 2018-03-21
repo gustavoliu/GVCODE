@@ -1,0 +1,12 @@
+Notas Aulas GVCode
+
+https://stackoverflow.com/questions/5166473/inheritance-and-init-method-in-python
+https://github.com/AkiraOkuno/Aulas_GVCode/tree/master
+https://github.com/AkiraOkuno/Aulas_GVCode
+
+*DESAFIO SEMANA 01 GVCODE*
+
+Montar uma calculadora usando os conceitos de programação vistos na última aula. Essa calculadora vai ter uma característica específica que é aceitar números e polinômios, ou seja, inserindo um polinômio, a calculadora tem que reconhecer que seu input é um polinômio.
+A partir daí, algumas operações tem que ser definidas. Para números, tem que valer as operações básicas (+,-,,/,*) e fatorial. Para polinômios, além das operações básicas, você pode definir operações mais complexas como derivadas e integrais.
+Você pode escolher o método que preferir para isso, usando somente uma function ou com programação orientada a objetos (com classes, métodos, etc.).
+Se quiser pode fazer tão complexo quanto queira. É isso, boa sorte!
